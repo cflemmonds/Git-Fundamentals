@@ -12,7 +12,7 @@ git clone https://github.com/ElevenFiftyAcademy/TerminalDungeon.git
 
 ## Resources
 
-- [Git Clone Documentation](https://git-scm/docs/git-clone)
+- [Git Clone Documentation](https://git-scm.com/docs/git-clone)
 
 ---
 
